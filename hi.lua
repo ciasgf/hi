@@ -1,1 +1,1 @@
-print("hi u suck")
+print("bye")
